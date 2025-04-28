@@ -30,7 +30,6 @@
 ## 🤝 Connect With Me
 
 - 📫 Reach me at: [theshapper@example.com](mailto:theshapper@example.com)
-- 💼 LinkedIn: [linkedin.com/in/theshapper](https://www.linkedin.com/in/theshapper/)
 - 🐦 Twitter: [@theshapper](https://twitter.com/theshapper)
 
 ---
