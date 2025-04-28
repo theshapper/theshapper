@@ -1,6 +1,4 @@
-# Hi there, I'm theshapper 👋
-
-Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast who loves creating, learning, and sharing knowledge with the community.
+# Hi there, I'm Jose Araujo 👋
 
 ---
 
