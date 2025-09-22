@@ -22,8 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&show_icons=true)
-
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&hide=contribs,prs)
 ---
 
 ## 🤝 Connect With Me
