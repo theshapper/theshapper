@@ -22,7 +22,8 @@
 ---
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi)](https://github.com/SrGobi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats)](https://github.com/SrGobi/github-readme-stats)
+
 ---
 
 ## 🤝 Connect With Me
