@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats)](https://github.com/SrGobi/github-readme-stats)
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&show_icons=true)
 
 ---
 
