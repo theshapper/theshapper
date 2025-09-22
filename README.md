@@ -22,10 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Theshapper's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshapper&show_icons=true&theme=radical)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ---
 
